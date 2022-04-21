@@ -7,11 +7,11 @@
 ## 進捗管理
 
 [curriculum/member](https://github.com/Doer-org/curriculum/tree/main/member)でAdd fileを押し、[template.md](https://github.com/Doer-org/curriculum/blob/main/member/template.md)の内容をコピーして自分の名前のファイルを作り、各項目が完了したらチェックを入れましょう。  
-
+更新はGitを使う必要はなく、GitHubで直接編集するとよいと思います。
 
 ## 編集
 
 もっといいカリキュラムがあると思ったら追加または更新するプルリクエストを出しましょう。  
 その際、`template.md`の更新を忘れないようにしてください。  
 各カリキュラムでは無料の情報、`books.md`ではおすすめの本を募集しています。  
-おすすめの記事はDiscordの`2x_知見共有_x`チャンネルにお願いします。
+カリキュラムには追加しないけどおすすめの記事があった場合はDiscordの`2x_知見共有_x`チャンネルにお願いします。
