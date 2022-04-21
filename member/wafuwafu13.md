@@ -4,8 +4,8 @@
 
 - [x] Command Line
 - [x] Git
-- [x] ƒGƒfƒBƒ^
-- [x] ‰Û‘è
+- [x] ã‚¨ãƒ‡ã‚£ã‚¿
+- [x] èª²é¡Œ
 
 ## frontend
 
