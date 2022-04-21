@@ -1,31 +1,31 @@
-# ƒtƒƒ“ƒgƒGƒ“ƒh
+# ãƒ•ãƒ­ãƒ³ãƒˆã‚¨ãƒ³ãƒ‰
 
 ## HTML & CSS
 
-[HTML & CSS ‰‹‰•Ò](https://prog-8.com/lessons/html/study/1) ‚ğ‚â‚Á‚Ä‚İ‚Ü‚µ‚å‚¤B
+[HTML & CSS åˆç´šç·¨](https://prog-8.com/lessons/html/study/1) ã‚’ã‚„ã£ã¦ã¿ã¾ã—ã‚‡ã†ã€‚
 
 ## JavaScript
 
-https://ja.javascript.info/intro?map ‚ÌuPromise, async/awaitv‚ÌÍ‚Ü‚Å‚â‚Á‚Ä‚İ‚Ü‚µ‚å‚¤B
+https://ja.javascript.info/intro?map ã®ã€ŒPromise, async/awaitã€ã®ç« ã¾ã§ã‚„ã£ã¦ã¿ã¾ã—ã‚‡ã†ã€‚
 
 ## React
 
-[https://www.youtube.com/playlist?list=PLX8Rsrpnn3IWPoM7-1YPDksRRkamRY25k](https://www.youtube.com/playlist?list=PLX8Rsrpnn3IWPoM7-1YPDksRRkamRY25k) ‚ğ‚â‚Á‚Ä‚İ‚Ü‚µ‚å‚¤B  
-ƒƒ‚: https://github.com/deatiger/react-basic-new
+[æ–°ãƒ»æ—¥æœ¬ä¸€ã‚ã‹ã‚Šã‚„ã™ã„Reactå…¥é–€ã€åŸºç¤ç·¨ã€‘](https://www.youtube.com/playlist?list=PLX8Rsrpnn3IWPoM7-1YPDksRRkamRY25k) ã‚’ã‚„ã£ã¦ã¿ã¾ã—ã‚‡ã†ã€‚  
+ãƒ¡ãƒ¢: https://github.com/deatiger/react-basic-new
 
 ## TypeScript
 
-https://typescriptbook.jp/ ‚ÅuTypeScript‚Ì‚ ‚ç‚Ü‚µv->u“Ç‚ñ‚ÅŠw‚ÔTypeScriptv->uì‚Á‚ÄŠw‚ÔTypeScriptv‚ğ‚â‚Á‚Ä‚İ‚Ü‚µ‚å‚¤B
+https://typescriptbook.jp/ ã§ã€ŒTypeScriptã®ã‚ã‚‰ã¾ã—ã€->ã€Œèª­ã‚“ã§å­¦ã¶TypeScriptã€->ã€Œä½œã£ã¦å­¦ã¶TypeScriptã€ã‚’ã‚„ã£ã¦ã¿ã¾ã—ã‚‡ã†ã€‚
 
-### ‰Û‘è
+### èª²é¡Œ
 
-- u3. Reactv‚Åì¬‚µ‚½ƒvƒƒWƒFƒNƒg‚ÉTypeScript‚ğ“±“ü‚µ‚Ä‚İ‚Ü‚µ‚å‚¤B
+- ã€Œ3. Reactã€ã§ä½œæˆã—ãŸãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã«TypeScriptã‚’å°å…¥ã—ã¦ã¿ã¾ã—ã‚‡ã†ã€‚
 
 ## Jest
 
-https://jestjs.io/ja/docs/getting-started ‚Ìu‚Í‚¶‚ß‚Ü‚µ‚å‚¤v‚ğ‚â‚Á‚Ä‚İ‚Ü‚µ‚å‚¤B  
+https://jestjs.io/ja/docs/getting-started ã®ã€Œã¯ã˜ã‚ã¾ã—ã‚‡ã†ã€ã‚’ã‚„ã£ã¦ã¿ã¾ã—ã‚‡ã†ã€‚  
 
-### ‰Û‘è
+### èª²é¡Œ
 
-- u3. Reactv‚Åì¬‚µ‚½ƒvƒƒWƒFƒNƒg‚ÉƒeƒXƒg‚ğ“±“ü‚µ‚Ä‚İ‚Ü‚µ‚å‚¤B
-ƒqƒ“ƒg: https://jestjs.io/ja/docs/tutorial-react
+- ã€Œ3. Reactã€ã§ä½œæˆã—ãŸãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã«ãƒ†ã‚¹ãƒˆã‚’å°å…¥ã—ã¦ã¿ã¾ã—ã‚‡ã†ã€‚  
+ãƒ’ãƒ³ãƒˆ: https://jestjs.io/ja/docs/tutorial-react
