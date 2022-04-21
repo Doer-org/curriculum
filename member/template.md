@@ -2,25 +2,25 @@
 
 ## tools
 
-- [] Command Line
-- [] Git
-- [] ƒGƒfƒBƒ^
-- [] ‰Û‘è
+- [ ] Command Line
+- [ ] Git
+- [ ] ã‚¨ãƒ‡ã‚£ã‚¿
+- [ ] èª²é¡Œ
 
 ## frontend
 
-- [] HTML & CSS
-- [] JavaScript
-- [] React
-- [] TypeScript
-- [] Jest
+- [ ] HTML & CSS
+- [ ] JavaScript
+- [ ] React
+- [ ] TypeScript
+- [ ] Jest
 
 ## backend
 
-- [] SQL
-- [] Ruby/Ruby on Rails
-- [] Go/Echo
-- [] Node.js/Express
+- [ ] SQL
+- [ ] Ruby/Ruby on Rails
+- [ ] Go/Echo
+- [ ] Node.js/Express
 
 ## mobile
 
