@@ -4,8 +4,8 @@
 
 - [ ] Command Line
 - [ ] Git
-- [ ] エディタ
-- [ ] 課題
+- [ ] エ�?ィタ
+- [ ] 課�?
 
 ## frontend
 
@@ -13,7 +13,9 @@
 - [ ] JavaScript
 - [ ] React
 - [ ] TypeScript
+- [ ] �ۑ�
 - [ ] Jest
+- [ ] �ۑ�
 
 ## backend
 

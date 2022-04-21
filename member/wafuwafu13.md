@@ -13,7 +13,9 @@
 - [x] JavaScript
 - [x] React
 - [x] TypeScript
+- [x] 課題
 - [x] Jest
+- [x] 課題
 
 ## backend
 
