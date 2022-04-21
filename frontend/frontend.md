@@ -19,7 +19,7 @@ https://typescriptbook.jp/ で「TypeScriptのあらまし」->「読んで学�
 
 ### 課題
 
-- 「3. React」で作成したプロジェクトにTypeScriptを導入してみましょう。
+- 「React」で作成したプロジェクトにTypeScriptを導入してみましょう。
 
 ## Jest
 
@@ -27,5 +27,5 @@ https://jestjs.io/ja/docs/getting-started の「はじめましょう」をや�
 
 ### 課題
 
-- 「3. React」で作成したプロジェクトにテストを導入してみましょう。  
+- 「React」で作成したプロジェクトにテストを導入してみましょう。  
 ヒント: https://jestjs.io/ja/docs/tutorial-react
