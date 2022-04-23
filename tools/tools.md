@@ -1,25 +1,27 @@
-# ƒc[ƒ‹
+# ãƒ„ãƒ¼ãƒ«
 
 ## Command Line
 
-Progate‚ÌƒAƒJƒEƒ“ƒg‚ğì¬‚µ‚ÄA[Command Line Šî‘b•Ò](https://prog-8.com/courses/commandline)‚ğ‚â‚Á‚Ä‚İ‚Ü‚µ‚å‚¤B  
-I‚í‚Á‚½‚çA©•ª‚ÌŠÂ‹«(Mac‚È‚ç[ƒ^[ƒ~ƒiƒ‹](https://itips.krsw.biz/where-is-terminal-in-mac-how-to-run/))‚Å‚¢‚­‚Â‚©‚ÌƒRƒ}ƒ“ƒh‚ğÀs‚µ‚Ä‚İ‚é‚Æ‚æ‚¢‚Å‚µ‚å‚¤B  
+Progateã®ã‚¢ã‚«ã‚¦ãƒ³ãƒˆã‚’ä½œæˆã—ã¦ã€[Command Line åŸºç¤ç·¨](https://prog-8.com/courses/commandline)ã‚’ã‚„ã£ã¦ã¿ã¾ã—ã‚‡ã†ã€‚  
+çµ‚ã‚ã£ãŸã‚‰ã€è‡ªåˆ†ã®ç’°å¢ƒ(Macãªã‚‰[ã‚¿ãƒ¼ãƒŸãƒŠãƒ«](https://itips.krsw.biz/where-is-terminal-in-mac-how-to-run/))ã§ã„ãã¤ã‹ã®ã‚³ãƒãƒ³ãƒ‰ã‚’å®Ÿè¡Œã—ã¦ã¿ã‚‹ã¨ã‚ˆã„ã§ã—ã‚‡ã†ã€‚  
 
 ## Git
 
-Git‚ÌƒCƒ“ƒXƒg[ƒ‹‚Í http://git-scm.com/downloads ‚©‚ç‚Å‚«‚Ü‚·B(Mac‚Ìê‡‚Í•s—v‚Å‚·)
-Git‚ÌƒCƒ“ƒXƒg[ƒ‹‚ªI‚í‚Á‚½‚çA[git“ü–å](https://dotinstall.com/lessons/basic_git)‚ğ‚µ‚Ä‚İ‚Ü‚µ‚å‚¤B
+Gitã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã¯ http://git-scm.com/downloads ã‹ã‚‰ã§ãã¾ã™ã€‚(Macã®å ´åˆã¯ä¸è¦ã§ã™)
+Gitã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ãŒçµ‚ã‚ã£ãŸã‚‰ã€[gitå…¥é–€](https://dotinstall.com/lessons/basic_git)ã‚’ã—ã¦ã¿ã¾ã—ã‚‡ã†ã€‚
 
-## ƒGƒfƒBƒ^
+[ å¿œç”¨ ] [ãƒŸã‚¯ã‚·ã‚£Gitç ”ä¿®](https://docs.google.com/presentation/d/1EwjQnoqzzYsijrMNEsWGAj54yfQlbr2mvuxrDtKl-Ww/edit#slide=id.g3e0bd23512_0_0)ã®å¾ŒåŠéƒ¨åˆ†ã§ã¯ã€Gitã®å†…éƒ¨æ§‹é€ ã«ã¤ã„ã¦å­¦ã¶ã“ã¨ãŒã§ãã¾ã™ã€‚
 
-Visual Studio Code ‚ÌƒCƒ“ƒXƒg[ƒ‹‚Í https://code.visualstudio.com/ ‚©‚ç‚Å‚«‚Ü‚·B
+## ã‚¨ãƒ‡ã‚£ã‚¿
 
-## ƒ}[ƒNƒ_ƒEƒ“
+Visual Studio Code ã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã¯ https://code.visualstudio.com/ ã‹ã‚‰ã§ãã¾ã™ã€‚
 
-[yƒ}[ƒNƒ_ƒEƒ“‹L–@‚Æ‚ÍHzƒ}[ƒNƒ_ƒEƒ“‚Ì‘‚«•û‚ğ–Ô—…“I‚É‰ğà](https://backlog.com/ja/blog/how-to-write-markdown/)‚É–Ú‚ğ’Ê‚µ‚Ü‚µ‚å‚¤B
+## ãƒãƒ¼ã‚¯ãƒ€ã‚¦ãƒ³
 
-### ‰Û‘è
+[ã€ãƒãƒ¼ã‚¯ãƒ€ã‚¦ãƒ³è¨˜æ³•ã¨ã¯ï¼Ÿã€‘ãƒãƒ¼ã‚¯ãƒ€ã‚¦ãƒ³ã®æ›¸ãæ–¹ã‚’ç¶²ç¾…çš„ã«è§£èª¬](https://backlog.com/ja/blog/how-to-write-markdown/)ã«ç›®ã‚’é€šã—ã¾ã—ã‚‡ã†ã€‚
 
-1. https://github.com/Doer-org/curriculum ‚ğclone‚µ‚ÄƒGƒfƒBƒ^‚ÅŠJ‚¢‚Ä‚İ‚Ü‚µ‚å‚¤B
-2. uAv <- ‚±‚ÌA‚ğB‚É•Ï‚¦‚Äƒvƒ‹ƒŠƒNƒGƒXƒg‚ğo‚µ‚Ä‚İ‚Ü‚µ‚å‚¤B  
-ƒqƒ“ƒg: [y’´“ü–åz‰SÒ‚Ì‚½‚ß‚ÌGit‚ÆGitHub‚Ìg‚¢•û](https://tech-blog.rakus.co.jp/entry/20200529/git)
+### èª²é¡Œ
+
+1. https://github.com/Doer-org/curriculum ã‚’cloneã—ã¦ã‚¨ãƒ‡ã‚£ã‚¿ã§é–‹ã„ã¦ã¿ã¾ã—ã‚‡ã†ã€‚
+2. ã€ŒAã€ <- ã“ã®Aã‚’Bã«å¤‰ãˆã¦ãƒ—ãƒ«ãƒªã‚¯ã‚¨ã‚¹ãƒˆã‚’å‡ºã—ã¦ã¿ã¾ã—ã‚‡ã†ã€‚  
+ãƒ’ãƒ³ãƒˆ: [ã€è¶…å…¥é–€ã€‘åˆå¿ƒè€…ã®ãŸã‚ã®Gitã¨GitHubã®ä½¿ã„æ–¹](https://tech-blog.rakus.co.jp/entry/20200529/git)
