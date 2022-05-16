@@ -2,10 +2,10 @@
 
 ## tools
 
-- [ ] Command Line
-- [ ] Git
-- [ ] エディタ
-- [ ] 課題
+- [x] Command Line
+- [x] Git
+- [x] エディタ
+- [x] 課題
 
 ## frontend
 
