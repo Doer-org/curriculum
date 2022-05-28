@@ -9,7 +9,7 @@
 
 ## frontend
 
-- [ ] HTML & CSS
+- [x] HTML & CSS
 - [ ] JavaScript
 - [ ] React
 - [ ] TypeScript
